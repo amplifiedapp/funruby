@@ -1,0 +1,5 @@
+require 'celluloid'
+require 'funkify'
+require './lib/functional'
+require './lib/monad'
+require './lib/instances'
